@@ -1,0 +1,11 @@
+C:\Users\konyang\Downloads\VP02_2024-main\024_SensorMonitoring\bin\Debug\024_SensorMonitoring.exe.config
+C:\Users\konyang\Downloads\VP02_2024-main\024_SensorMonitoring\bin\Debug\024_SensorMonitoring.exe
+C:\Users\konyang\Downloads\VP02_2024-main\024_SensorMonitoring\bin\Debug\024_SensorMonitoring.pdb
+C:\Users\konyang\Downloads\VP02_2024-main\024_SensorMonitoring\obj\Debug\024_SensorMonitoring.csproj.AssemblyReference.cache
+C:\Users\konyang\Downloads\VP02_2024-main\024_SensorMonitoring\obj\Debug\024_SensorMonitoring.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Downloads\VP02_2024-main\024_SensorMonitoring\obj\Debug\_024_SensorMonitoring.Form1.resources
+C:\Users\konyang\Downloads\VP02_2024-main\024_SensorMonitoring\obj\Debug\_024_SensorMonitoring.Properties.Resources.resources
+C:\Users\konyang\Downloads\VP02_2024-main\024_SensorMonitoring\obj\Debug\024_SensorMonitoring.csproj.GenerateResource.cache
+C:\Users\konyang\Downloads\VP02_2024-main\024_SensorMonitoring\obj\Debug\024_SensorMonitoring.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Downloads\VP02_2024-main\024_SensorMonitoring\obj\Debug\024_SensorMonitoring.exe
+C:\Users\konyang\Downloads\VP02_2024-main\024_SensorMonitoring\obj\Debug\024_SensorMonitoring.pdb
